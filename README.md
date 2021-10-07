@@ -13,5 +13,5 @@ The code is written and tested in MATLAB 2019b. Running the code will require te
 - Decoding of cortical pattern: the code for recursive feature elimination algorithm with SVM using the sample data (neuron firing and pattern types)
 
 # Licence
-Copyright (c) 2021 Xin Liu, Kuzum Lab, University of Southern California
+Copyright (c) 2021 Xin Liu, Kuzum Lab, University of California San Diego
 Licenced under the [MIT License](LICENSE).
